@@ -1,6 +1,6 @@
 /coverage
 /dist
-/lib
+# /lib // fork a few operations, this is just to meet personal needs.
 /node_modules
 /tmp
 /.eslintcache
